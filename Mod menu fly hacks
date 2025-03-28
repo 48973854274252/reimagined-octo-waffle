@@ -282,7 +282,7 @@ restoreMenuOnDeath()
 local titleLabel = Instance.new("TextLabel")
 titleLabel.Size = UDim2.new(0, 380, 0, 50) -- Размер надписи
 titleLabel.Position = UDim2.new(0, 10, 0, -40) -- Позиция надписи (над фреймом)
-titleLabel.Text = "ARUSCRIPT" -- Текст надписи
+titleLabel.Text = "ᅠ ᅠ " -- Текст надписи
 titleLabel.TextScaled = true -- Автоматическое масштабирование текста
 titleLabel.TextColor3 = Color3.fromRGB(255, 255, 255) -- Белый цвет текста
 titleLabel.Font = Enum.Font.GothamBold -- Стиль шрифта (например, GothamBold)
